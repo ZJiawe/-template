@@ -1,0 +1,957 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="caead488-bf31-42cd-b36e-9636f86d9f50" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/zhengjiawei/cn/AppTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="75" column="56" selection-start-line="75" selection-start-column="56" selection-end-line="75" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-extension/3.3.0/mybatis-plus-extension-3.3.0-sources.jar!/com/baomidou/mybatisplus/extension/service/IService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="619">
+              <caret line="148" column="16" lean-forward="true" selection-start-line="148" selection-start-column="16" selection-end-line="148" selection-end-column="16" />
+              <folding>
+                <element signature="e#3671#3672#0" expanded="true" />
+                <element signature="e#3721#3722#0" expanded="true" />
+                <element signature="e#6318#6319#0" expanded="true" />
+                <element signature="e#6370#6371#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/infrastructure/cfg/MyMetaObjectHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="19" column="82" lean-forward="true" selection-start-line="19" selection-start-column="82" selection-end-line="19" selection-end-column="82" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/domain/entitys/VersionInfo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="74" column="40" selection-start-line="74" selection-start-column="40" selection-end-line="74" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>pc</find>
+      <find>projectPath</find>
+      <find>include</find>
+      <find>TableLogic</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/ZJiaWe/cn/App.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ZJiaWe/cn/CodeGenerateTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/zhegnjiawei/cn/CodeGenerateTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/mapper/DbHisInfoMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/mapper/DbHisInfoMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/genertor/utils/typeConvert.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/genertor/utils/TypeConvert.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/domain/service/impl/DbHisInfoServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/domain/mapper/DbHisInfoMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/domain/mapper/FieldPresentInfoMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/domain/mapper/IndexFieldHisInfoMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/domain/mapper/IndexFieldPresentInfoMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/genertor/utils/MyTypeConvert.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/infrastructure/cfg/MybatisPlusPlugs.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/infrastructure/cfg/MybatisPlusConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/spy.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/App.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/infrastructure/cfg/TablePresentInfoServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/infrastructure/cfg/ccccTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/infrastructure/cfg/CcccTest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/logic4j.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/infrastructure/enums/ActiveEnum.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/zhengjiawei/cn/CodeGenerateTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/domain/entitys/DbHisInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/domain/entitys/DbPresentInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/domain/entitys/FieldHisInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/domain/entitys/FieldPresentInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/domain/entitys/IndexFieldHisInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/domain/entitys/IndexFieldPresentInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/domain/entitys/IndexHisInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/domain/entitys/IndexPresentInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/domain/entitys/TableHisInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/domain/entitys/TablePresentInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.yaml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/infrastructure/cfg/MyMetaObjectHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/domain/entitys/VersionInfo.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/zhengjiawei/cn/AppTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="1752" />
+    <option name="height" value="1029" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="springboot_mybatis_plus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_mybatis_plus" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_mybatis_plus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_mybatis_plus" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_mybatis_plus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_mybatis_plus" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_mybatis_plus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_mybatis_plus" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_mybatis_plus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_mybatis_plus" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_mybatis_plus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_mybatis_plus" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_mybatis_plus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_mybatis_plus" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+              <item name="entitys" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_mybatis_plus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_mybatis_plus" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="infrastructure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_mybatis_plus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_mybatis_plus" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="infrastructure" type="462c0819:PsiDirectoryNode" />
+              <item name="cfg" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_mybatis_plus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_mybatis_plus" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="infrastructure" type="462c0819:PsiDirectoryNode" />
+              <item name="enums" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_mybatis_plus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_mybatis_plus" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_mybatis_plus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_mybatis_plus" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_mybatis_plus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_mybatis_plus" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_mybatis_plus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_mybatis_plus" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576415315558" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../1.StudyCode/2.IDEA/personal-website-server" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\2.WorkSpace\5.template\springboot_mybatis_plus\deploy" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zhengjiawei.cn.infrastructure.cfg" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\2.WorkSpace\5.template\springboot_mybatis_plus\deploy" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.AppTest.updateVersionId">
+    <configuration name="AppTest.searchById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot_mybatis_plus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhengjiawei.cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zhengjiawei.cn" />
+      <option name="MAIN_CLASS_NAME" value="com.zhengjiawei.cn.AppTest" />
+      <option name="METHOD_NAME" value="searchById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest.testDelete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot_mybatis_plus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhengjiawei.cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zhengjiawei.cn" />
+      <option name="MAIN_CLASS_NAME" value="com.zhengjiawei.cn.AppTest" />
+      <option name="METHOD_NAME" value="testDelete" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest.testInsert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot_mybatis_plus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhengjiawei.cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zhengjiawei.cn" />
+      <option name="MAIN_CLASS_NAME" value="com.zhengjiawei.cn.AppTest" />
+      <option name="METHOD_NAME" value="testInsert" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest.updateVersionId" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot_mybatis_plus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhengjiawei.cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zhengjiawei.cn" />
+      <option name="MAIN_CLASS_NAME" value="com.zhengjiawei.cn.AppTest" />
+      <option name="METHOD_NAME" value="updateVersionId" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CodeGenerateTest.generateTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot_mybatis_plus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhengjiawei.cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zhengjiawei.cn" />
+      <option name="MAIN_CLASS_NAME" value="com.zhengjiawei.cn.CodeGenerateTest" />
+      <option name="METHOD_NAME" value="generateTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_mybatis_plus" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zhengjiawei.cn.App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.App" />
+      <item itemvalue="JUnit.AppTest.testInsert" />
+      <item itemvalue="JUnit.CodeGenerateTest.generateTest" />
+      <item itemvalue="JUnit.AppTest.testDelete" />
+      <item itemvalue="JUnit.AppTest.searchById" />
+      <item itemvalue="JUnit.AppTest.updateVersionId" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AppTest.updateVersionId" />
+        <item itemvalue="JUnit.AppTest.searchById" />
+        <item itemvalue="JUnit.AppTest.testDelete" />
+        <item itemvalue="JUnit.AppTest.testInsert" />
+        <item itemvalue="JUnit.CodeGenerateTest.generateTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="caead488-bf31-42cd-b36e-9636f86d9f50" name="Default Changelist" comment="" />
+      <created>1576291004151</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576291004151</updated>
+      <workItem from="1576291010439" duration="1054000" />
+      <workItem from="1576292090184" duration="96000" />
+      <workItem from="1576292214124" duration="19721000" />
+      <workItem from="1576314521862" duration="18729000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="CodeGenerateTest_generateTest - 2019.12.15 at 20h 45m 50s.xml">
+      <configuration name="CodeGenerateTest.generateTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CodeGenerateTest_generateTest - 2019.12.15 at 20h 46m 56s.xml">
+      <configuration name="CodeGenerateTest.generateTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest_testInsert - 2019.12.15 at 20h 49m 52s.xml">
+      <configuration name="AppTest.testInsert" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest_testInsert - 2019.12.15 at 20h 52m 15s.xml">
+      <configuration name="AppTest.testInsert" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest_testInsert - 2019.12.15 at 20h 53m 48s.xml">
+      <configuration name="AppTest.testInsert" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest_testInsert - 2019.12.15 at 20h 55m 56s.xml">
+      <configuration name="AppTest.testInsert" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest_testDelete - 2019.12.15 at 20h 58m 04s.xml">
+      <configuration name="AppTest.testDelete" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest_testDelete - 2019.12.15 at 20h 58m 55s.xml">
+      <configuration name="AppTest.testDelete" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest_searchById - 2019.12.15 at 21h 01m 23s.xml">
+      <configuration name="AppTest.searchById" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest_searchById - 2019.12.15 at 21h 02m 57s.xml">
+      <configuration name="AppTest.searchById" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="39600000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26273242" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32978722" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.21985815" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.44503546" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32978722" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.24822696" />
+      <window_info anchor="bottom" id="Spring" order="13" weight="0.6134752" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3298217" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26273242" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32978722" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.40425533" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.44503546" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32978722" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.24822696" />
+      <window_info anchor="bottom" id="Spring" order="13" weight="0.6134752" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3298217" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/domain/service/impl/DbPresentInfoServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/interfaces/controller/FieldPresentInfoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="46" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-generator/3.3.0/mybatis-plus-generator-3.3.0.jar!/com/baomidou/mybatisplus/generator/config/StrategyConfig.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="357" column="38" selection-start-line="357" selection-start-column="38" selection-end-line="357" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.10/lombok-1.18.10.jar!/lombok/Data.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/interfaces/controller/DbHisInfoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.8/lombok-1.18.8.jar!/lombok/experimental/Accessors.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/domain/mapper/IndexFieldHisInfoMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/domain/mapper/DbPresentInfoMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/domain/mapper/DbPresentInfoMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61">
+          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/domain/service/interfaces/DbHisInfoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis-config.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/domain/service/impl/DbHisInfoServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.2.2.RELEASE/spring-beans-5.2.2.RELEASE.jar!/org/springframework/beans/factory/annotation/AutowiredAnnotationBeanPostProcessor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="577" selection-start-line="577" selection-end-line="577" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.2.RELEASE/spring-context-5.2.2.RELEASE.jar!/org/springframework/context/support/AbstractApplicationContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="491" selection-start-line="491" selection-end-line="491" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/interfaces/controller/TablePresentInfoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/domain/mapper/DbHisInfoMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="67" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-core/3.3.0/mybatis-plus-core-3.3.0-sources.jar!/com/baomidou/mybatisplus/core/mapper/BaseMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="82" column="17" selection-start-line="82" selection-start-column="17" selection-end-line="82" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/domain/mapper/DbHisInfoMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="14" column="56" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/domain/mapper/IndexFieldHisInfoMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="49" lean-forward="true" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/domain/mapper/IndexFieldPresentInfoMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/domain/mapper/FieldPresentInfoMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/infrastructure/cfg/MybatisPlusPlugs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spy.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/infrastructure/cfg/CcccTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-38">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-extension/3.3.0/mybatis-plus-extension-3.3.0-sources.jar!/com/baomidou/mybatisplus/extension/service/impl/ServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="194" column="19" selection-start-line="194" selection-start-column="19" selection-end-line="194" selection-end-column="19" />
+          <folding>
+            <element signature="e#3506#3507#0" expanded="true" />
+            <element signature="e#3563#3564#0" expanded="true" />
+            <element signature="e#6818#6819#0" expanded="true" />
+            <element signature="e#6885#6886#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/infrastructure/genertor/config/MyTypeConvert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/infrastructure/enums/StatusEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="9" column="49" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deploy/ReadMe.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-781" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deploy/dbmange.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3534" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="96" column="17" selection-start-line="96" selection-start-column="17" selection-end-line="96" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/infrastructure/cfg/MybatisPlusConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="11" selection-start-line="11" selection-end-line="11" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/domain/entitys/DbHisInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="29" column="12" lean-forward="true" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/domain/entitys/DbPresentInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/domain/entitys/FieldHisInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/domain/entitys/FieldPresentInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/domain/entitys/IndexFieldHisInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-core/3.3.0/mybatis-plus-core-3.3.0-sources.jar!/com/baomidou/mybatisplus/core/toolkit/Assert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/zhengjiawei/cn/CodeGenerateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-85">
+          <caret line="60" column="48" selection-start-line="60" selection-start-column="48" selection-end-line="60" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/domain/entitys/IndexPresentInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="70" column="7" lean-forward="true" selection-start-line="70" selection-start-column="7" selection-end-line="70" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/domain/entitys/IndexHisInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/domain/entitys/IndexFieldPresentInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/domain/entitys/TableHisInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/domain/entitys/TablePresentInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="36" column="13" lean-forward="true" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/infrastructure/cfg/MyMetaObjectHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="19" column="82" lean-forward="true" selection-start-line="19" selection-start-column="82" selection-end-line="19" selection-end-column="82" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhengjiawei/cn/domain/entitys/VersionInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="74" column="40" selection-start-line="74" selection-start-column="40" selection-end-line="74" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-core/3.3.0/mybatis-plus-core-3.3.0-sources.jar!/com/baomidou/mybatisplus/core/conditions/Wrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-extension/3.3.0/mybatis-plus-extension-3.3.0-sources.jar!/com/baomidou/mybatisplus/extension/service/IService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="619">
+          <caret line="148" column="16" lean-forward="true" selection-start-line="148" selection-start-column="16" selection-end-line="148" selection-end-column="16" />
+          <folding>
+            <element signature="e#3671#3672#0" expanded="true" />
+            <element signature="e#3721#3722#0" expanded="true" />
+            <element signature="e#6318#6319#0" expanded="true" />
+            <element signature="e#6370#6371#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/zhengjiawei/cn/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="75" column="56" selection-start-line="75" selection-start-column="56" selection-end-line="75" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
